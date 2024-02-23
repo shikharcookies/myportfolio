@@ -3,4 +3,4 @@
 
 ## Screenshots
 
-![portfolio](./assets/portfolio.png)
+![portfolio](./assets/port.png)
